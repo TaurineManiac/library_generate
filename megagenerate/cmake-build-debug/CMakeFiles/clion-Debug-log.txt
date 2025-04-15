@@ -1,0 +1,13 @@
+E:\getbr\JetBrains\CLion2024.3\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=E:/getbr/JetBrains/CLion2024.3/bin/ninja/win/x64/ninja.exe -G Ninja -S "C:\Users\Ignat\Desktop\Шестопалов Игнат Романович\ОАиП\Сем 2\megagenerate" -B "C:\Users\Ignat\Desktop\Шестопалов Игнат Романович\ОАиП\Сем 2\megagenerate\cmake-build-debug"
+-- Configuring done (0.2s)
+CMake Error at CMakeLists.txt:7 (add_library):
+  Cannot find source file:
+
+    inputCheck.cpp
+
+
+CMake Error at CMakeLists.txt:7 (add_library):
+  No SOURCES given to target: megagenerate
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
