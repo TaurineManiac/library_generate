@@ -1,5 +1,5 @@
 #  Library for input validation
-****
+
 A lightweight C++ library for generating various random
 data and timestamps.
 
@@ -17,7 +17,7 @@ data and timestamps.
 3. **Timestamp format**: Fixed format (YYYY-MM-DD HH:MM:SS)
 
 ## List of Functions:
-In order not to clutter it up, I moved it [here](./ListOfFunctions_megagenerate.md).
+In order not to clutter it up, I moved it [here](./ListOfFunctions.md).
 
 ## Usage example:
 
