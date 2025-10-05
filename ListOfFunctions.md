@@ -7,4 +7,6 @@
 | **`generateCurrentDataTime()`** | Returns current datetime as "YYYY-MM-DD HH:MM:SS" | `std::string now = generate::generateCurrentDataTime();` |
 | **`generateRandomString(max_length)`** | Generates random lowercase string (1-max_length chars) | `std::string code = generate::generateRandomString(12);` |
 | **`generateChooseMenu(int startPoint,bool isNegativeBeOnTop,Args... args)`** | Generates choose-menu | `std::int countOfRows = generate::generateChooseMenu(-2,true,"pi","zuza");` |
+
+
 [Return back](./README.md)
