@@ -1,3 +1,3 @@
-C:/Users/Ignat/Desktop/Шестопалов Игнат Романович/ОАиП/Сем 2/megagenerate/cmake-build-debug/CMakeFiles/megagenerate.dir
-C:/Users/Ignat/Desktop/Шестопалов Игнат Романович/ОАиП/Сем 2/megagenerate/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Ignat/Desktop/Шестопалов Игнат Романович/ОАиП/Сем 2/megagenerate/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+E:/removal/Шестопалов Игнат Романович/ОАиП/Сем 2/megagenerate/cmake-build-debug/CMakeFiles/megagenerate.dir
+E:/removal/Шестопалов Игнат Романович/ОАиП/Сем 2/megagenerate/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/removal/Шестопалов Игнат Романович/ОАиП/Сем 2/megagenerate/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -31,7 +31,14 @@ namespace generate {
     }
 
     // Генерация случайного числа в диапазоне [min, max]
-    int generateRandomNumber(int min, int max) {
+    int generateRandomIntNumber(int min, int max) {
+        std::random_device rd;
+        std::mt19937 gen(rd());
+        std::uniform_int_distribution<> dis(min, max);
+        return dis(gen);
+    }
+
+    double generateRandomDoubleNumber(double min, double max) {
         std::random_device rd;
         std::mt19937 gen(rd());
         std::uniform_int_distribution<> dis(min, max);
@@ -40,9 +47,9 @@ namespace generate {
 
     std::string generateRandomString(int max){
         std::string str="";
-        int maxsize=generateRandomNumber(1,max);
+        int maxsize=generateRandomIntNumber(1,max);
         for(int i=0;i<maxsize;i++){
-            int ASCII = generateRandomNumber(97,122);
+            int ASCII = generateRandomIntNumber(97,122);
             str+=(char)ASCII;
         }
         return str;
